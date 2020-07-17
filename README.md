@@ -1,6 +1,6 @@
  # Running pace|speed|time|distance conversion chart.
 
-### The quick way to see how fast you run in kilometres and miles.
+### The quick & easy way to see how fast you run in kilometres and miles.
 
 **[Running Pace Conversion Chart](http://wachilt.github.io/running-pace-conversion-chart/)**
 
