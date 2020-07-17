@@ -6,4 +6,4 @@
 
 My Garmin fēnix 6 Sapphire is my personal 'on-board' interface and dashboard of choice. It's sensor array yields the myriad physiological telemetry, metrics *and* local environmental data I require to '*fuzzily*' estimate net pace and predicted finishing time during a run.
 
-However, when I aim for a PR (particularly on a familiar route) I like to 'preflight' speed, distance and time more accurately in order to do so. [This simple static chart](http://wachilt.github.io/running-pace-conversion-chart/) allows me to quickly do just that.
+However, I like to 'preflight' speed, distance and time more accurately whenever I aim for a PR, particularly whe running a route I am familiar with. [This simple static chart](http://wachilt.github.io/running-pace-conversion-chart/) allows me to quickly do just that.
