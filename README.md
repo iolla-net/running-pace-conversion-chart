@@ -10,4 +10,4 @@ A Garmin fēnix 6 Sapphire is my personal interface and 'on-board' dashboard of 
 
 However, I like to 'preflight' speed, distance and time more accurately when aiming for a PR, particularly when running a route I am familiar with. This simple static **[chart](http://wachilt.github.io/running-pace-conversion-chart/)** allows me to do just that.
 
-*(Cheetah icon created by m. turan ercan from the Noun Project)*
+Cheetah icon created by m. turan ercan from the [Noun Project](https://thenounproject.com/mte)
