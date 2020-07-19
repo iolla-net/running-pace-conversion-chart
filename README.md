@@ -1,4 +1,4 @@
- ![fitrgrid logo](https://github.com/wachilt/running-pace-conversion-chart/noun_Cheetah_1497693.svg)
+ ![cheetah](https://github.com/wachilt/running-pace-conversion-chart/blob/master/noun_Cheetah_1497693.svg)
 
 
  # Running pace|speed|distance|time conversion chart.
