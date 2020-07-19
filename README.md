@@ -1,3 +1,6 @@
+ ![fitrgrid logo](https://github.com/wachilt/Fitrgrid/blob/master/images/icons/retina.png)
+
+
  # Running pace|speed|distance|time conversion chart.
 
 ### The quick and easy way to see how fast you run in kilometres and miles.
