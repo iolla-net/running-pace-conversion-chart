@@ -1,8 +1,8 @@
-# Running pace|speed|distance|time conversion chart.
+# Running pace|speed|distance|time conversion chart
 
  ![cheetah](https://github.com/wachilt/running-pace-conversion-chart/blob/master/noun_Cheetah_1497693.svg)
 ---
-### The quick and easy way to see how fast you run in kilometres and miles.
+### The quick and easy way to see how fast you run in kilometres and miles
 
 **[Running Pace Conversion Chart](http://wachilt.github.io/running-pace-conversion-chart/)**
 
