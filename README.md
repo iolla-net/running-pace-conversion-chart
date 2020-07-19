@@ -1,4 +1,4 @@
-# Running pace|speed|distance|time conversion chart
+# Running pace\speed|distance/time conversion chart
 
  ![cheetah](https://github.com/wachilt/running-pace-conversion-chart/blob/master/noun_Cheetah_1497693.svg)
 ---
