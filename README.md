@@ -6,7 +6,7 @@
 
 **[Running Pace Conversion Chart](http://wachilt.github.io/running-pace-conversion-chart/)**
 
-A Garmin fēnix 6 Sapphire serves as my personal 'on-board' biometric interface. It's sensor array package yields the myriad physiological metrics, telemetry and local environmental data I require to *fuzzily* estimate net pace and predicted finish time when running.
+A Garmin fēnix 6 Sapphire serves as my personal 'on-board' biometric interface. It's instrumentation and sensor array package yield the myriad physiological metrics, telemetry and local environmental data I require to *fuzzily* estimate net pace and predicted finish time when running.
 
 However, I also like to 'preflight' speed, distance and time more accurately when aiming for a PR, particularly when running a route I am familiar with. This simple static **[chart](http://wachilt.github.io/running-pace-conversion-chart/)** allows me to do just that.
 
