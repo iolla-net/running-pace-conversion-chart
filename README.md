@@ -4,7 +4,7 @@
 ---
 ### The quick and easy way to see how fast you run in kilometres and miles
 
-**[Running Pace Conversion Chart](http://wachilt.github.io/running-pace-conversion-chart/)**
+**[Running Pace Conversion Chart](https://iolla-net.github.io/running-pace-conversion-chart/)**
 
 A Garmin fēnix serves as my personal 'on-board' bio-interface. It's sensor array yields the physiological metrics, telemetry and local environmental data required to *fuzzily* estimate net pace and predict finish time during a run.
 
